@@ -1,0 +1,23 @@
+body {
+    background-color: darkcyan;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+}
+
+.copyrights {
+    text-align: center;
+    color: blue;
+    position: absolute;
+    bottom: 0px;
+}
